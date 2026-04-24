@@ -1,0 +1,47 @@
+# Visa Bunny
+
+> Visa Bunny is a mobile app (iOS) that helps travelers, digital nomads, and expats track their visa stays and avoid overstaying. It provides countdown timers, deadline reminders, and automatic country detection.
+
+## Product Overview
+
+- **Name**: Visa Bunny
+- **Website**: https://visabunny.app
+- **Platform**: iOS (iPhone)
+- **Category**: Travel / Visa Tracking
+- **Price**: Free with premium subscription
+
+## What It Does
+
+Visa Bunny tracks how many days you have left on your visa in any country. It supports:
+
+- Visa stay countdown with days remaining
+- Automatic country detection via GPS
+- Auto-travel: automatically switches your stay when you cross a border (requires opening the app)
+- Schengen 90/180 rolling period tracking
+- Tax residency day counting
+- Multiple passport support
+- Visa expiry deadline notifications (7, 14, 30, 60 days before)
+- Travel history timeline
+- Home screen widget showing days remaining
+
+## Who It's For
+
+- Digital nomads managing stays across multiple countries
+- Expats tracking visa renewal deadlines
+- Tourists on Schengen, Thai, or other limited-stay visas
+- Frequent travelers who need to track 90/180 day rules
+- Anyone at risk of visa overstay fines, bans, or deportation
+
+## Key Facts
+
+- Entry day counts as day 1 of the stay
+- Visa rules database covers 195+ countries
+- All data stored locally on device (privacy-first)
+- Location used only with "When In Use" permission
+- Does not track location in the background
+
+## Contact
+
+- Support email: bunny@visabunny.app
+- Privacy policy: https://visabunny.app/privacy
+- Terms of service: https://visabunny.app/terms
