@@ -2,31 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://visabunny.app/</loc>
-    <lastmod>2026-04-24</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://visabunny.app/blog/</loc>
-    <lastmod>2026-04-24</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://visabunny.app/support</loc>
-    <lastmod>2026-04-24</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://visabunny.app/privacy</loc>
-    <lastmod>2026-04-24</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>
   </url>
   <url>
     <loc>https://visabunny.app/terms</loc>
-    <lastmod>2026-04-24</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>
   </url>
@@ -51,6 +51,12 @@
   <url>
     <loc>https://visabunny.app/blog/warning-don-t-get-caught-how-long-can-you-stay-in-thailand-for-30-60-or-90-days</loc>
     <lastmod>2026-04-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://visabunny.app/blog/warning-116-visa-free-countries-for-us-citizens-but-do-you-need-a-visa-for-mexico</loc>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
